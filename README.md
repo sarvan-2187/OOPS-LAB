@@ -1,2 +1,5 @@
-**CH.SC.U4CSE24130** @ AVV CHENNAI CSE - B <br><hr>
-This is my repository for Object Oriented Programming Lab
+*Name:*  ***N.Sarvan Kumar***
+<br>
+*Roll:*  ***CH.SC.U4CSE24130***
+<br>
+*This is my repository for Object Oriented Programming Lab*
