@@ -4,4 +4,4 @@
 <br>
 <hr>
 <br>
-<p style = "color: aqua;">This is my repository for Object Oriented Programming Lab</p>
+<b>This is my repository for Object Oriented Programming Lab</b>
