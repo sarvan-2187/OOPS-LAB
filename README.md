@@ -13,11 +13,13 @@
     <th>Exp No.</th>
     <th>Title</th>
     <th>Count</th>
+    <th>Status</th>
   </tr>
   <tr>
     <td>1</td>
     <td>Raptor Programs</td>
     <td>3</td>
+    <td>✅</td>
   </tr>
   <tr>
     <td>2</td>
@@ -28,11 +30,13 @@
     <td>3</td>
     <td>Java Basic Programs</td>
     <td>10</td>
+    <td>✅</td>
   </tr>
   <tr>
     <td>4</td>
     <td>Java Inheritence Programs</td>
     <td>4</td>
+    <td>✅</td>
   </tr>
   <tr>
     <td>5</td>
