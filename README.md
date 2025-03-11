@@ -31,4 +31,14 @@
     <td>Java Basic Programs</td>
     <td>10</td>
   </tr>
+  <tr>
+    <td>4</td>
+    <td>Java Inheritence Programs</td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>Java Polymorphism Programs</td>
+    <td>4</td>
+  </tr>
 </table>
