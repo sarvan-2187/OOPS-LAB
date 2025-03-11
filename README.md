@@ -12,7 +12,7 @@
 
 <table>
   <tr>
-    <th>Exeprtiment Number</th>
+    <th>Exp No.</th>
     <th>Title</th>
     <th>Count</th>
   </tr>
