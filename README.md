@@ -5,8 +5,6 @@
 *Roll:*  ***CH.SC.U4CSE24130***
 <br>
 *Branch:* ***AVV Chennai Campus***
-## Description
-<b>This is my repository for <q>Object Oriented Programming Lab</q></b>
 
 ## Index
 
@@ -42,3 +40,6 @@
     <td>4</td>
   </tr>
 </table>
+
+## Description
+<b>This is my repository for <q>Object Oriented Programming Lab</q></b>
