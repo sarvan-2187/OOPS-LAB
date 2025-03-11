@@ -25,6 +25,7 @@
     <td>2</td>
     <td>UML Diagrams</td>
     <td>5 x 2</td>
+    <td></td>
   </tr>
   <tr>
     <td>3</td>
@@ -42,6 +43,7 @@
     <td>5</td>
     <td>Java Polymorphism Programs</td>
     <td>4</td>
+    <td></td>
   </tr>
 </table>
 
