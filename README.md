@@ -1,10 +1,6 @@
 # 23CSE111 Object Oriented Programming in JAVA
 
-*Name:*  ***N.Sarvan Kumar***
-<br>
-*Roll:*  ***CH.SC.U4CSE24130***
-<br>
-*Branch:* ***AVV Chennai Campus***
+*Name:*  ***N.Sarvan Kumar***<p>   </p>*Roll:*  ***CH.SC.U4CSE24130***
 
 ## Index
 
