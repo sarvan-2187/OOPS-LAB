@@ -39,7 +39,7 @@
     <td>5</td>
     <td>Java Polymorphism Programs</td>
     <td>4</td>
-    <td>❌</td>
+    <td>✅</td>
   </tr>
 </table>
 
