@@ -15,31 +15,31 @@
     <td>1</td>
     <td>Raptor Programs</td>
     <td>3</td>
-    <td>✅</td>
+    <td>Uploaded</td>
   </tr>
   <tr>
     <td>2</td>
     <td>UML Diagrams</td>
     <td>10</td>
-    <td>✅</td>
+    <td>Uploaded</td>
   </tr>
   <tr>
     <td>3</td>
     <td>Java Basic Programs</td>
     <td>10</td>
-    <td>✅</td>
+    <td>Uploaded</td>
   </tr>
   <tr>
     <td>4</td>
     <td>Java Inheritence Programs</td>
     <td>4</td>
-    <td>✅</td>
+    <td>Uploaded</td>
   </tr>
   <tr>
     <td>5</td>
     <td>Java Polymorphism Programs</td>
     <td>4</td>
-    <td>✅</td>
+    <td>Uploaded</td>
   </tr>
 </table>
 
