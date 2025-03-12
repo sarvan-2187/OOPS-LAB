@@ -31,13 +31,13 @@
   </tr>
   <tr>
     <td>4</td>
-    <td>Java Inheritence Programs<ul></ul><li>Single Inheritence</li><li>Multi Level Inheritence</li><li>Hierarchial Inheritence</li><li>Hybrid Inheritence</li></ul></td>
+    <td>Java Inheritence Programs</td>
     <td>4</td>
     <td>✅</td>
   </tr>
   <tr>
     <td>5</td>
-    <td>Java Polymorphism Programs <ul><li>Method Overloading</li><li>Method Overriding</li></ul></td>
+    <td>Java Polymorphism Programs</td>
     <td>4</td>
     <td>✅</td>
   </tr>
