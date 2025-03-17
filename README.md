@@ -33,13 +33,13 @@
     <td>4</td>
     <td>Java Inheritence Programs</td>
     <td>8</td>
-    <td>Uploaded</td>
+    <td>-</td>
   </tr>
   <tr>
     <td>5</td>
     <td>Java Polymorphism Programs</td>
     <td>8</td>
-    <td>Uploaded</td>
+    <td>-</td>
   </tr>
   <tr>
     <td>6</td>
