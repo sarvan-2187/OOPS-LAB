@@ -53,6 +53,18 @@
     <td>4</td>
     <td>-</td>
   </tr>
+  <tr>
+    <td>8</td>
+    <td>Java Exception Handling Programs</td>
+    <td>4</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>Java File Handling Programs</td>
+    <td>4</td>
+    <td>-</td>
+  </tr>
 </table>
 
 ## Description
