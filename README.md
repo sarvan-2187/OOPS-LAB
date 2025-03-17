@@ -32,19 +32,19 @@
   <tr>
     <td>4</td>
     <td>Java Inheritence Programs</td>
-    <td>4</td>
+    <td>8</td>
     <td>Uploaded</td>
   </tr>
   <tr>
     <td>5</td>
     <td>Java Polymorphism Programs</td>
-    <td>4</td>
+    <td>8</td>
     <td>Uploaded</td>
   </tr>
   <tr>
     <td>6</td>
     <td>Java Abstraction Programs</td>
-    <td>4</td>
+    <td>8</td>
     <td>-</td>
   </tr>
   <tr>
