@@ -13,7 +13,7 @@
   </tr>
   <tr>
     <td>1</td>
-    <td>Raptor Programs</td>
+    <td>Raptor Flowcharts</td>
     <td>3</td>
     <td>Uploaded</td>
   </tr>
