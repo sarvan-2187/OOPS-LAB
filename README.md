@@ -41,6 +41,18 @@
     <td>4</td>
     <td>Uploaded</td>
   </tr>
+  <tr>
+    <td>6</td>
+    <td>Java Abstraction Programs</td>
+    <td>4</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>Java Encapsulation Programs</td>
+    <td>4</td>
+    <td>-</td>
+  </tr>
 </table>
 
 ## Description
