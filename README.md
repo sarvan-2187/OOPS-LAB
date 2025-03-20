@@ -36,7 +36,7 @@
   </tr>
   <tr>
     <td>4</td>
-    <td>Java Inheritence Programs</td>
+    <td><a href='https://github.com/sarvan-2187/OOPS-LAB/tree/main/Experiment%204'>Inheritence Programs</a></td>
     <td>8</td>
     <td>-</td>
   </tr>
