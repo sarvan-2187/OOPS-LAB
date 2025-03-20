@@ -61,7 +61,7 @@
   </tr>
   <tr>
     <td>9</td>
-    <td>Java Exception Handling & File Handling Programs</td>
+    <td>Java Exception & File Handling Programs</td>
     <td>8</td>
     <td>-</td>
   </tr>
