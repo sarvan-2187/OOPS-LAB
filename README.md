@@ -50,7 +50,7 @@
   <tr>
     <td>7</td>
     <td>Java Encapsulation Programs</td>
-    <td>8</td>
+    <td>4</td>
     <td>-</td>
   </tr>
   <tr>
@@ -68,7 +68,7 @@
   <tr>
     <td>10</td>
     <td>Java Packages Programs</td>
-    <td>2</td>
+    <td>8</td>
     <td>-</td>
   </tr>
 </table>
