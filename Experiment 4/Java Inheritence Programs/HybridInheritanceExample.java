@@ -31,7 +31,7 @@ class Penguin extends Bird {
     }
 }
 
-public class HybridInheritanceExample {
+public class HybridInheritanceExample1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         
