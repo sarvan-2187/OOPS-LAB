@@ -49,7 +49,7 @@
   </tr>
   <tr>
     <td>6</td>
-    <td>Java Abstraction Programs</td>
+    <td><a href='https://github.com/sarvan-2187/OOPS-LAB/tree/main/Experiment%206'>Java Abstraction Programs</a></td>
     <td>8</td>
     <td>-</td>
   </tr>
