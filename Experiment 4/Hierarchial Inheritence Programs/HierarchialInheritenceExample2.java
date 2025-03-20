@@ -1,6 +1,5 @@
 import java.util.Scanner;
 
-// Parent class
 class Employee {
     String name;
     double salary;
@@ -16,7 +15,6 @@ class Employee {
     }
 }
 
-// Child class 1
 class Manager extends Employee {
     int teamSize;
 
@@ -31,7 +29,6 @@ class Manager extends Employee {
     }
 }
 
-// Child class 2
 class Developer extends Employee {
     String programmingLanguage;
 
