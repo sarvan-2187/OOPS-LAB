@@ -1,6 +1,5 @@
 import java.util.Scanner;
 
-// Base Class
 class Vehicle {
     String brand;
     int wheels;
@@ -16,7 +15,6 @@ class Vehicle {
     }
 }
 
-// Intermediate Class (Car extends Vehicle)
 class Car extends Vehicle {
     String fuelType;
 
@@ -31,7 +29,6 @@ class Car extends Vehicle {
     }
 }
 
-// Derived Class (SportsCar extends Car)
 class SportsCar extends Car {
     int maxSpeed;
 
@@ -46,26 +43,22 @@ class SportsCar extends Car {
     }
 }
 
-// Main Class
 public class MultilevelInheritanceExample2 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        // Taking SportsCar details
         System.out.print("Enter Car Brand: ");
         String brand = sc.nextLine();
         System.out.print("Enter Number of Wheels: ");
         int wheels = sc.nextInt();
-        sc.nextLine(); // Consume newline
+        sc.nextLine(); 
         System.out.print("Enter Fuel Type: ");
         String fuelType = sc.nextLine();
         System.out.print("Enter Max Speed: ");
         int maxSpeed = sc.nextInt();
 
-        // Creating SportsCar object
         SportsCar sportsCar = new SportsCar(brand, wheels, fuelType, maxSpeed);
 
-        // Displaying SportsCar details
         System.out.println("\nSports Car Details:");
         sportsCar.showSportsCarDetails();
 
