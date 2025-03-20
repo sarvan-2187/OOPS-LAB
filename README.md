@@ -53,22 +53,22 @@
     <td>4</td>
     <td>-</td>
   </tr>
-  <tr>
+    <tr>
     <td>8</td>
+    <td>Java Packages Programs</td>
+    <td>8</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>9</td>
     <td>Java Exception Handling Programs</td>
     <td>4</td>
     <td>-</td>
   </tr>
   <tr>
-    <td>9</td>
+    <td>10</td>
     <td>Java File Handling Programs</td>
     <td>4</td>
-    <td>-</td>
-  </tr>
-  <tr>
-    <td>10</td>
-    <td>Java Packages Programs</td>
-    <td>8</td>
     <td>-</td>
   </tr>
 </table>
