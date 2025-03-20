@@ -8,6 +8,9 @@
 *Total Reports :*  **03**<br>
 *Project Name :*  **Unknown**
 
+## Description
+<b>This is my repository for <q>Object Oriented Programming Lab</q></b>
+
 ## Index
 
 <table>
@@ -55,23 +58,20 @@
   </tr>
   <tr>
     <td>7</td>
-    <td>Java Encapsulation Programs</td>
+    <td><a href='https://github.com/sarvan-2187/OOPS-LAB/tree/main/Experiment%207'>Java Encapsulation Programs</a></td>
     <td>4</td>
     <td>-</td>
   </tr>
     <tr>
     <td>8</td>
-    <td>Java Packages Programs</td>
+    <td><a href='https://github.com/sarvan-2187/OOPS-LAB/tree/main/Experiment%208'>Java Packages Programs</a></td>
     <td>8</td>
     <td>-</td>
   </tr>
   <tr>
     <td>9</td>
-    <td>Java Exception & File Handling Programs</td>
+    <td><a href='https://github.com/sarvan-2187/OOPS-LAB/tree/main/Experiment%209'>Java Exception & File Handling Programs</a></td>
     <td>8</td>
     <td>-</td>
   </tr>
 </table>
-
-## Description
-<b>This is my repository for <q>Object Oriented Programming Lab</q></b>
