@@ -4,9 +4,9 @@
 *Roll:*  **CH.SC.U4CSE24130**<br><br>
 
 ## Statistics
-*Total Java Programs :*  **54**<br>
-*Total UML Diagrams :*  **10**<br>
 *Total Raptor Diagrams :*  **03**<br>
+*Total UML Diagrams :*  **10**<br>
+*Total Java Programs :*  **54**<br>
 *Total Reports :*  **03**<br>
 
 ## Description
