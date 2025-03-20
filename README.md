@@ -2,15 +2,13 @@
 
 *Name:*  **Nagarampalli Sarvan Kumar**<br>
 *Roll:*  **CH.SC.U4CSE24130**<br><br>
+<b>This is my repository for <q>Object Oriented Programming Lab</q></b>
 
 ## Statistics
 *Total Raptor Diagrams :*  **03**<br>
 *Total UML Diagrams :*  **10**<br>
 *Total Java Programs :*  **54**<br>
 *Total Reports :*  **03**<br>
-
-## Description
-<b>This is my repository for <q>Object Oriented Programming Lab</q></b>
 
 ## Index
 
