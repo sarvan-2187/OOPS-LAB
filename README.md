@@ -18,19 +18,19 @@
   </tr>
   <tr>
     <td>1</td>
-    <td><a href='#'>Raptor Flowcharts</a></td>
+    <td><a href='https://github.com/sarvan-2187/OOPS-LAB/tree/main/Experiment%201'>Raptor Flowcharts</a></td>
     <td>3</td>
     <td>Uploaded</td>
   </tr>
   <tr>
     <td>2</td>
-    <td>UML Diagrams</td>
+    <td><a href='https://github.com/sarvan-2187/OOPS-LAB/tree/main/Experiment%202'>UML Diagrams</a></td>
     <td>10</td>
     <td>Uploaded</td>
   </tr>
   <tr>
     <td>3</td>
-    <td>Java Basic Programs</td>
+    <td><a href='https://github.com/sarvan-2187/OOPS-LAB/tree/main/Experiment%203/Java%20Basic%20Programs'>Java Basic Programs</td>
     <td>10</td>
     <td>Uploaded</td>
   </tr>
