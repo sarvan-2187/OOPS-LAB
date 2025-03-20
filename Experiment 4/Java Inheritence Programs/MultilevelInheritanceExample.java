@@ -25,7 +25,7 @@ class SmartWashingMachine extends WashingMachine {
     }
 }
 
-public class MultilevelInheritanceExample {
+public class MultilevelInheritanceExample1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         
