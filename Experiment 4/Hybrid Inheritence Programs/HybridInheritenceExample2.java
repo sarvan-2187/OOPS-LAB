@@ -1,6 +1,5 @@
 import java.util.Scanner;
 
-// Base class
 class Person {
     String name;
     int age;
@@ -16,7 +15,6 @@ class Person {
     }
 }
 
-// Intermediate class (Employee)
 class Employee extends Person {
     int empID;
 
@@ -31,7 +29,6 @@ class Employee extends Person {
     }
 }
 
-// Derived class 1 (Professor)
 class Professor extends Employee {
     String subject;
 
@@ -46,7 +43,6 @@ class Professor extends Employee {
     }
 }
 
-// Derived class 2 (Administrator)
 class Administrator extends Employee {
     String department;
 
@@ -61,7 +57,6 @@ class Administrator extends Employee {
     }
 }
 
-// Additional Derived Class (HOD - Inherits Professor)
 class HOD extends Professor {
     String researchArea;
 
@@ -80,53 +75,47 @@ public class HybridInheritenceExample2 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        // Taking Professor details
         System.out.print("Enter Professor Name: ");
         String profName = sc.nextLine();
         System.out.print("Enter Age: ");
         int profAge = sc.nextInt();
         System.out.print("Enter Employee ID: ");
         int profID = sc.nextInt();
-        sc.nextLine(); // Consume newline
+        sc.nextLine(); 
         System.out.print("Enter Subject: ");
         String subject = sc.nextLine();
         Professor professor = new Professor(profName, profAge, profID, subject);
 
-        // Taking Administrator details
         System.out.print("\nEnter Administrator Name: ");
         String adminName = sc.nextLine();
         System.out.print("Enter Age: ");
         int adminAge = sc.nextInt();
         System.out.print("Enter Employee ID: ");
         int adminID = sc.nextInt();
-        sc.nextLine(); // Consume newline
+        sc.nextLine();
         System.out.print("Enter Department: ");
         String department = sc.nextLine();
         Administrator administrator = new Administrator(adminName, adminAge, adminID, department);
 
-        // Taking HOD details
         System.out.print("\nEnter HOD Name: ");
         String hodName = sc.nextLine();
         System.out.print("Enter Age: ");
         int hodAge = sc.nextInt();
         System.out.print("Enter Employee ID: ");
         int hodID = sc.nextInt();
-        sc.nextLine(); // Consume newline
+        sc.nextLine();
         System.out.print("Enter Subject: ");
         String hodSubject = sc.nextLine();
         System.out.print("Enter Research Area: ");
         String researchArea = sc.nextLine();
         HOD hod = new HOD(hodName, hodAge, hodID, hodSubject, researchArea);
 
-        // Displaying Professor details
         System.out.println("\nProfessor Details:");
         professor.showProfessorDetails();
 
-        // Displaying Administrator details
         System.out.println("\nAdministrator Details:");
         administrator.showAdministratorDetails();
 
-        // Displaying HOD details
         System.out.println("\nHOD Details:");
         hod.showHODDetails();
 
