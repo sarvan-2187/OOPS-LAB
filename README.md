@@ -5,7 +5,7 @@
 *Total Programs :*  ***54***<br>
 *Total UML Diagrams :*  ***10***<br>
 *Total Raptor Diagrams :*  ***3***<br>
-*Reports :*  ***02***<br>
+*Total Reports :*  ***02***<br>
 
 ## Index
 
