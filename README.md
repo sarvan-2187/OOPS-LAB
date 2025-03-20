@@ -61,14 +61,8 @@
   </tr>
   <tr>
     <td>9</td>
-    <td>Java Exception Handling Programs</td>
-    <td>4</td>
-    <td>-</td>
-  </tr>
-  <tr>
-    <td>10</td>
-    <td>Java File Handling Programs</td>
-    <td>4</td>
+    <td>Java Exception Handling & File Handling Programs</td>
+    <td>9</td>
     <td>-</td>
   </tr>
 </table>
