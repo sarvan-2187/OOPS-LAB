@@ -2,10 +2,10 @@
 
 *Name:*  ***N.Sarvan Kumar***<br>
 *Roll:*  ***CH.SC.U4CSE24130***<br>
-*Total Programs :*  ***54***<br>
+*Total Java Programs :*  ***54***<br>
 *Total UML Diagrams :*  ***10***<br>
 *Total Raptor Diagrams :*  ***3***<br>
-*Total Reports :*  ***02***<br>
+*Total Reports :*  ***03***<br>
 
 ## Index
 
