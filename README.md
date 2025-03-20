@@ -76,6 +76,3 @@
     <td>-</td>
   </tr>
 </table>
-
-## Project
-*Project Name :*  **Unknown**<br><br>
