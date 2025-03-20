@@ -25,7 +25,7 @@ class Bike extends Vehicle {
     }
 }
 
-public class HierarchicalInheritanceExample {
+public class HierarchicalInheritanceExample1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         
