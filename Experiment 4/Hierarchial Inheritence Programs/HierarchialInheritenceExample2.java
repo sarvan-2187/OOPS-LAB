@@ -53,14 +53,14 @@ public class HierarchialInheritenceExample2 {
         double managerSalary = sc.nextDouble();
         System.out.print("Enter Team Size: ");
         int teamSize = sc.nextInt();
-        sc.nextLine(); // Consume newline
+        sc.nextLine(); 
         Manager manager = new Manager(managerName, managerSalary, teamSize);
 
         System.out.print("Enter Developer Name: ");
         String developerName = sc.nextLine();
         System.out.print("Enter Developer Salary: ");
         double developerSalary = sc.nextDouble();
-        sc.nextLine(); // Consume newline
+        sc.nextLine(); 
         System.out.print("Enter Programming Language: ");
         String programmingLanguage = sc.nextLine();
         Developer developer = new Developer(developerName, developerSalary, programmingLanguage);
