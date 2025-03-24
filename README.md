@@ -28,7 +28,7 @@
   <tr>
     <td>2</td>
     <td><a href='https://github.com/sarvan-2187/OOPS-LAB/tree/main/Experiment%202'>UML Diagrams</a></td>
-    <td>10</td>
+    <td>5 x 2</td>
     <td>Uploaded</td>
   </tr>
   <tr>
