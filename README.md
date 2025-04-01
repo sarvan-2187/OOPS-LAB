@@ -65,12 +65,12 @@
     <td>8</td>
     <td><a href='https://github.com/sarvan-2187/OOPS-LAB/tree/main/Experiment%208'>Java Packages Programs</a></td>
     <td>8</td>
-    <td>-</td>
+    <td>Uploaded</td>
   </tr>
   <tr>
     <td>9</td>
     <td><a href='https://github.com/sarvan-2187/OOPS-LAB/tree/main/Experiment%209'>Java Exception & File Handling Programs</a></td>
     <td>8</td>
-    <td>-</td>
+    <td>Uploaded</td>
   </tr>
 </table>
