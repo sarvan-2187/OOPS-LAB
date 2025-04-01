@@ -53,13 +53,13 @@
     <td>6</td>
     <td><a href='https://github.com/sarvan-2187/OOPS-LAB/tree/main/Experiment%206'>Java Abstraction Programs</a></td>
     <td>8</td>
-    <td>-</td>
+    <td>Uploaded</td>
   </tr>
   <tr>
     <td>7</td>
     <td><a href='https://github.com/sarvan-2187/OOPS-LAB/tree/main/Experiment%207'>Java Encapsulation Programs</a></td>
     <td>4</td>
-    <td>-</td>
+    <td>Uploaded</td>
   </tr>
     <tr>
     <td>8</td>
