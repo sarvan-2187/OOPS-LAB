@@ -73,4 +73,10 @@
     <td>8</td>
     <td>Uploaded</td>
   </tr>
+  <tr>
+    <td>10</td>
+    <td><a href='https://github.com/sarvan-2187/OOPS-LAB/tree/main/Project%20-%20Expense%20Tracker'>CLI Based Expense Tracker</a></td>
+    <td>-</td>
+    <td>Uploaded</td>
+  </tr>
 </table>
