@@ -46,6 +46,5 @@ Implement graphical UI for better user experience<br>
 Support for multiple users with login authentication<br>
 ## License<br>
 This project is open-source and available under the MIT License.<br>
-<br><br>
 ## Author<br>
 Developed by Sarvan Kumar<br>
