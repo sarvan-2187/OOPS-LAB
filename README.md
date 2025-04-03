@@ -80,10 +80,12 @@
     <td>Project</td>
     <td>Title</td>
     <td>TechStacks Used</td>
+    <td>Status</td>
   </tr>
   <tr>
     <td>1</td>
     <td><a href='https://github.com/sarvan-2187/OOPS-LAB/tree/main/Project%20-%20Expense%20Tracker'>Project: CLI Based Expense Tracker</a></td>
     <td>Java, SQLite</td>
+    <td>Uploaded</td>
   </tr>
 </table>
