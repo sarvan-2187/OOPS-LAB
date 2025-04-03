@@ -36,3 +36,5 @@ A simple **console-based Task Manager** written in Java that allows users to man
 - Implement sorting/filtering options
 - Enhance file encryption for security
 
+![image](https://github.com/user-attachments/assets/1cafeaeb-d82a-43a3-afea-3e8a44ee6be9)
+
