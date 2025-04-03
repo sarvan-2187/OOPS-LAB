@@ -84,7 +84,7 @@
   </tr>
   <tr>
     <td>1</td>
-    <td><a href='https://github.com/sarvan-2187/OOPS-LAB/tree/main/Project%20-%20Expense%20Tracker'>Project: CLI Based Yask Manager</a></td>
+    <td><a href='https://github.com/sarvan-2187/OOPS-LAB/tree/main/Project%20-%20Task%20Manager'>Project: CLI Based Yask Manager</a></td>
     <td>Java</td>
     <td>Uploaded</td>
   </tr>
