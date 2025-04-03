@@ -8,7 +8,7 @@
 *Total Raptor Diagrams :*  **03**<br>
 *Total UML Diagrams :*  **10**<br>
 *Total Java Programs :*  **54**<br>
-*Total Reports :*  **03**<br>
+*Total Reports :*  **02**<br>
 
 ## Index
 
