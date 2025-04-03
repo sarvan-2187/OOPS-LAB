@@ -79,7 +79,7 @@
   <tr>
     <td>Project</td>
     <td>Title</td>
-    <td>TechStacks Used</td>
+    <td>TechStacks</td>
     <td>Status</td>
   </tr>
   <tr>
