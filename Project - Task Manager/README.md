@@ -1,4 +1,4 @@
-# Task Manager (Java, No SQL)
+# Task Manager (Java)
 
 ## Overview
 A simple **console-based Task Manager** written in Java that allows users to manage tasks efficiently. No database is required; tasks are stored in a file for persistence.
