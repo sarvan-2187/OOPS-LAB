@@ -13,7 +13,7 @@ Save expense reports as a CSV file<br>
 ✔ Save expense data into a CSV file for further analysis<br>
 ✔ Persistent storage using SQLite database<br>
 
-## Technologies Used<br>
+## Technologies Used
 Java (JDK 8+)<br>
 SQLite (JDBC for database interaction)<br>
 File handling (CSV export)<br><br>
